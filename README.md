@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **C# and ASP.NET**
 
-- 👨‍💻 All of my projects are available at [www.instagram.com/the_diluted_developer](www.instagram.com/the_diluted_developer)
+- 👨‍💻 All of my projects are available at [https://www.instagram.com/the_diluted_developer](instagram.com/@the_diluted_developer)
 
 - 💬 Ask me about **react native, django, web technologies**
 
 - 📫 How to reach me **developer.safaf@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mohammed-safaf](www.linkedin.com/in/mohammed-safaf)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-safaf](linkedin.com/in/mohammed-safaf)
 
 - ⚡ Fun fact **click me**
 
