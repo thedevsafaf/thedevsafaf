@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# and ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/the_diluted_developer](instagram.com/@the_diluted_developer)
+- 👨‍💻 All of my projects are available at [https://www.github.com/thedevsafaf/](github.com/thedevsafaf)
 
 - 💬 Ask me about **react native, django, web technologies**
 
