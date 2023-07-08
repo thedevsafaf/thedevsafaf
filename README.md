@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **C# and ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/thedevsafaf/](github.com/thedevsafaf)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **react native, django, web technologies**
 
 - 📫 How to reach me **developer.safaf@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohammed-safaf](linkedin.com/in/mohammed-safaf)
+- 📄 Know about my experiences **https://www.linkedin.com/in/mohammed-safaf**
 
 - ⚡ Fun fact **click me**
 
