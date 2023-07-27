@@ -26,7 +26,7 @@
       <a href="https://linkedin.com/in/mohammed-safaf">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://www.youtube.com/@the_diluted_developer/">
+      <a href="https://www.youtube.com/channel/ucdnjc3etv5gwit74c_gd37w">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
       <a href="https://twitter.com/Safaf_Mohammed7">
@@ -50,10 +50,10 @@
 ### :mailbox_closed: Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-safaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammed-safaf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22192395/mohammed-safaf-pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22192395/mohammed-safaf-pt" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohammed.safaf.pt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammed.safaf.pt/" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/the_diluted_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/the_diluted_developer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdnjc3etv5gwit74c_gd37w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdnjc3etv5gwit74c_gd37w" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22192395/mohammed-safaf-pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22192395/mohammed-safaf-pt" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammed.safaf.pt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohammed.safaf.pt/" height="30" width="40" /></a>
+<a href="www.instagram.com/the_diluted_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/the_diluted_developer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucdnjc3etv5gwit74c_gd37w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdnjc3etv5gwit74c_gd37w" height="30" width="40" /></a>
 </p>
 
 ---
