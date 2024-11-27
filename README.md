@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 Full Stack Developer **
+- 🌱 Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at **https://www.instagram.com/the_diluted_developer**
 
