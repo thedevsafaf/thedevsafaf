@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **C# and ASP.NET**
+- 🌱 Full Stack Developer **
 
 - 👨‍💻 All of my projects are available at **https://www.instagram.com/the_diluted_developer**
 
